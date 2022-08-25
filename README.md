@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JiminyCricketSolutions
-- 👀 I’m interested in anything with a profit to be had.
-- 🌱 I’m currently learning how to automate FOREX trading strategies.
-- 💞️ I’m looking to collaborate on Smart Home software and applications.
+- 👀 I’m interested in anything with a profit to be had, or knowledge to be gained.
+- 🌱 I’m currently attending UAH for a degree in Computer Engineering.
+- 💞️ I’m looking to collaborate on almost anything.
 - 📫 If needed, email me at jiminycricketsolutions@gmail.com
 
 <!---
